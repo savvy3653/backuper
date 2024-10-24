@@ -3,7 +3,7 @@ import time
 import zipfile
 from os import stat
 from time import ctime
-from colorama import Fore, Style
+from colorama import Fore, Back, Style
 
 
 path = input('Enter the path for searching files, like C:\\ : ')
